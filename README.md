@@ -1,2 +1,2 @@
 # Statistical-project-
-Statistical project with 41 cities lifestyle using R
+Statistical project with data about the lifestyle of big 41 cities using R
