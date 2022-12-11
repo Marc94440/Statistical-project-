@@ -6,7 +6,7 @@ library(stringr)
 library(plotrix)
 library(car)
 
-tableau=read.csv("C:/Users/marcv/Downloads/archive/healthy_lifestyle_city_2021.csv")# modifier le chemin pour ouvrir le fichier
+tableau=read.csv("healthy_lifestyle_city_2021.csv")# modifier le chemin pour ouvrir le fichier
 
 #Problématique : Quelles sont les facteurs influents sur le bonheur d'une population au sein d'une ville ?
 
